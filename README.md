@@ -1,39 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abiud Masinde</h1>
-<h3 align="center">Fullstack Developer • Building fast, scalable & SEO-optimized web applications</h3>
+<h1 align="center">Hey, I'm Abiud Masinde</h1>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
-I craft modern web experiences using <strong>React, Next.js, and Node.js</strong>,
-with a strong focus on performance, scalability, and clean architecture.
+I Build Cool Stuff!
+  check some of them down here
 </p>
 
----
-
-## 🚀 What I Do
-
-💻 Build responsive, high-performance web applications  
-🧩 Architect scalable backend systems & APIs  
-⚡ Optimize performance, speed & SEO visibility  
-☁️ Deploy serverless & cloud-native infrastructure  
-💳 Integrate payments & third-party services  
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS • Material UI
-
-### Backend
-Node.js • Express • PostgreSQL • REST APIs
-
-### Tools & Practices
-Git • Performance Optimization • SEO • Responsive Design • Cloud Deployments
-
----
-
-## ✨ Featured Projects
-
-### 💳 EzzyPay
+💳 EzzyPay
 Mobile payment solution streamlining **M-Pesa STK Push** transactions for businesses.
 
 - Real-time transaction tracking  
@@ -66,24 +39,4 @@ SEO-optimized service website built for performance and professional branding.
 
 🔗 https://apexmedia.co.ke
 
----
-
-## 🌱 Current Focus
-
-- Building scalable full-stack platforms  
-- AI & automation integrations  
-- Performance & SEO optimization  
-- Exploring emerging web technologies  
-
----
-
-## ⚡ Philosophy
-
-> Great products live where clean code meets exceptional user experience.
-
----
-
-<p align="center">
-⭐️ If you like my work, consider giving a star to the projects!
-</p>
  

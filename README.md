@@ -3,7 +3,7 @@
 
 <p align="center">
 I Build Cool Stuff!
-  currently building 🔗  https://www.atsready.pro/hr
+  currently building 🔗  https://ajiriflow.com
 </p>
 
 
